@@ -1,0 +1,17 @@
+# Gradle build and cache directories
+.gradle/
+build/
+
+# IDE and Editor files
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.vscode/
+
+# OS metadata
+.DS_Store
+Thumbs.db
